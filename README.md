@@ -22,5 +22,9 @@ This project was developed as part of a **Software Engineering course**, focusin
 You can explore the interactive prototype here:
 🔗 [Wajeez Web App](https://wajeez-app.flutterflow.app/)
 
+## Academic Context
+* **Course:** Software Engineering Project (CS1250 & CS1251).
+* **University:** Imam Mohammad Ibn Saud Islamic University.
+
 ---
 *Developed with Passion for Riyadh's Future Mobility.*
